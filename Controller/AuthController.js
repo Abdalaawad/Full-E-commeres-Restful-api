@@ -107,5 +107,5 @@ module.exports = {
   Login,
   Signup,
   ForgetPassword,
-  // ResetPassword,
+  ResetPassword,
 };
